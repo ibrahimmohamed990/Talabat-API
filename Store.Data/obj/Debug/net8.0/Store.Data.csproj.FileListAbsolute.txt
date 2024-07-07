@@ -1,0 +1,24 @@
+E:\Route\API\Session 06\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+E:\Route\API\Session 06\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+E:\Route\API\Session 06\API_Demo\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
+E:\Route\API\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+E:\Route\API\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.dll
+E:\Route\API\API_Demo\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.dll
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll

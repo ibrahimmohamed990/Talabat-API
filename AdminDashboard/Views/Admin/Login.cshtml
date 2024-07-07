@@ -1,0 +1,33 @@
+﻿@model LoginDto
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Admin</title>
+    <link rel="stylesheet" href="~/css/LoginStyle.css">
+</head>
+
+
+<body>
+    <div class="container" style="width: 400px; margin: 50px auto; padding: 30px; border: 1px solid #ccc; border-radius: 5px; background-color: #fff;">
+        <h1>Login</h1>
+        <form asp-action="Login" style="display: flex; flex-direction: column;">
+            <label asp-for="@Model.Email">Email:</label>
+            <input asp-for="@Model.Email" type="text" id="email" name="email" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 3px; margin-bottom: 15px;">
+            <span asp-validation-for="@Model.Email" class="error-message"></span>
+
+            <label asp-for="@Model.Password">Password:</label>
+            <input asp-for="@Model.Password" type="password" id="password" name="password" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 3px; margin-bottom: 15px;">
+            <span asp-validation-for="@Model.Password" class="error-message"></span>
+
+            <button type="submit" class="submit-btn">Login</button>
+        </form>
+    </div>
+</body>
+
+</html>
+
+
+

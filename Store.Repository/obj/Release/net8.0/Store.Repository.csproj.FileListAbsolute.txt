@@ -1,0 +1,15 @@
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Release\net8.0\Store.Repository.deps.json
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Release\net8.0\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Release\net8.0\Store.Repository.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Release\net8.0\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Release\net8.0\Store.Data.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.AssemblyInfo.cs
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Re.0C98E3FA.Up2Date
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\refint\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\Store.Repository.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Release\net8.0\ref\Store.Repository.dll

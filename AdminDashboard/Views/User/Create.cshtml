@@ -1,0 +1,33 @@
+﻿@model RegisterVM
+
+
+<form asp-action="Create" enctype="multipart/form-data">
+    
+    <div class="form-group">
+        <label asp-for="@Model.DisplayName" class="col-form-label custom-label">Name</label>
+        <input asp-for="@Model.DisplayName" class="form-control custom-input" placeholder="Enter Name">
+        <span asp-validation-for="@Model.DisplayName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Email" class="col-form-label custom-label">Email</label>
+        <input asp-for="@Model.Email" class="form-control custom-input" placeholder="Enter Email">
+        <span asp-validation-for="@Model.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Password" class="col-form-label custom-label">Password</label>
+        <input asp-for="@Model.Password" type="password" class="form-control custom-input" placeholder="Enter Password">
+        <span asp-validation-for="@Model.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.ConfirmPassword" class="col-form-label custom-label">Confirm Password</label>
+        <input asp-for="@Model.ConfirmPassword" type="password" class="form-control custom-input" placeholder="Enter Password">
+        <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+    </div>
+    <br />
+    <br />
+    <button type="submit" value="Add" class="btn btn-primary">Add User</button>
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

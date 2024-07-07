@@ -1,0 +1,411 @@
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\appsettings.json
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.staticwebassets.runtime.json
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.exe
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.deps.json
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.API.pdb
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Humanizer.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.dll
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.pdb
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.pdb
+E:\Projects\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.pdb
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.Store.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.API.props
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.API.props
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.API.props
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.dll
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.pdb
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+E:\Projects\API_Demo\Store.API\obj\Debug\net6.0\ref\Store.API.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\appsettings.json
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.staticwebassets.runtime.json
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.exe
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.deps.json
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Humanizer.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.dll
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.pdb
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 03\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.Store.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.API.props
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.API.props
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.API.props
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+E:\Route\API\Session 03\API_Demo\Store.API\obj\Debug\net6.0\ref\Store.API.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\appsettings.json
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.staticwebassets.runtime.json
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.exe
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.deps.json
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Humanizer.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.dll
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.pdb
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 04\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.Store.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.API.props
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.API.props
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.API.props
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+E:\Route\API\Session 04\API_Demo\Store.API\obj\Debug\net6.0\ref\Store.API.dll
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\appsettings.json
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.staticwebassets.runtime.json
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.exe
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.deps.json
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Humanizer.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.dll
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.pdb
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 05\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.Store.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.API.props
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.API.props
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.API.props
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+E:\Route\API\Session 05\API_Demo\Store.API\obj\Debug\net6.0\ref\Store.API.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\appsettings.json
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.staticwebassets.runtime.json
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.exe
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.deps.json
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.runtimeconfig.json
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Humanizer.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Stripe.net.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.dll
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Services.pdb
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 06\API_Demo\Store.API\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.AssemblyReference.cache
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfoInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.AssemblyInfo.cs
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.Store.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.API.props
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.API.props
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.API.props
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\scopedcss\bundle\Store.API.styles.css
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.csproj.CopyComplete
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.dll
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\refint\Store.API.dll
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.pdb
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\Store.API.genruntimeconfig.cache
+E:\Route\API\Session 06\API_Demo\Store.API\obj\Debug\net6.0\ref\Store.API.dll

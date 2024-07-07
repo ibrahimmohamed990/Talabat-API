@@ -1,0 +1,75 @@
+E:\Projects\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+E:\Projects\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+E:\Projects\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+E:\Projects\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+E:\Projects\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+E:\Projects\API_Demo\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+E:\Route\API\Session 03\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+E:\Route\API\Session 03\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 03\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 03\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 03\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 03\API_Demo\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+E:\Route\API\Session 04\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+E:\Route\API\Session 04\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 04\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 04\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 04\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 04\API_Demo\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+E:\Route\API\Session 05\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+E:\Route\API\Session 05\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 05\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 05\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 05\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 05\API_Demo\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+E:\Route\API\Session 06\API_Demo\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
