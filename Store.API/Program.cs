@@ -65,6 +65,7 @@ namespace Store.API
             });
 
             var app = builder.Build();
+
             await ApplySeeding.ApplySeedingAsync(app);
 
             // Configure the HTTP request pipeline.

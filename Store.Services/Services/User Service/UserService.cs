@@ -51,7 +51,7 @@ namespace Store.Services.Services.User_Service
             
             if (!result.Succeeded)
                 throw new Exception(result.Errors.Select(x => x.Description).FirstOrDefault());
-            
+            await userManager.AddToRoleAsync(appUser, "User");
             return new UserDto
             {
                 Email = input.Email,

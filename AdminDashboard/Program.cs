@@ -50,7 +50,8 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
     options.Password.RequiredLength = 6;
 
 }).AddEntityFrameworkStores<StoreIdentityDBContext>();
-builder.Services.AddScoped<UserManager<AppUser>>();
+//builder.Services.AddScoped<UserManager<AppUser>>();
+//builder.Services.AddScoped<RoleManager<IdentityRole>>();
 builder.Services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
 
 builder.Services.AddAutoMapper(typeof(MapsProfile));

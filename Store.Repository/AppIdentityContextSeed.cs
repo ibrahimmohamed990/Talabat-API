@@ -10,15 +10,21 @@ namespace Store.Repository
 {
     public class AppIdentityContextSeed
     {
-        public static async Task SeedUserAsync(UserManager<AppUser> userManager)
+        public static async Task SeedUserAsync(UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager)
         {
+            if (!await roleManager.RoleExistsAsync("Admin"))
+            {
+                await roleManager.CreateAsync(new IdentityRole("Admin"));
+                await roleManager.CreateAsync(new IdentityRole("User"));
+            }
+
             if (!userManager.Users.Any())
             {
                 var user = new AppUser
                 {
-                    DisplayName = "Ibrahim Mohamed",
-                    Email = "ibrahim@gmail.com",
-                    UserName = "ibrahimmohamed",
+                    DisplayName = "Adminstrator",
+                    Email = "admin@talabat.com",
+                    UserName = "adminstrator",
                     Address = new Address
                     {
                         FirstName = "Ibrahim",
@@ -29,7 +35,12 @@ namespace Store.Repository
                         ZipCode = "123321"
                     }
                 };
-                await userManager.CreateAsync(user, "Password123!");
+                var result = await userManager.CreateAsync(user, "Password123!");
+
+                if (result.Succeeded)
+                {
+                    await userManager.AddToRoleAsync(user, "Admin");
+                }
             }
 
         }

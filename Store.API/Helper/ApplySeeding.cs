@@ -18,11 +18,12 @@ namespace Store.API.Helper
                 {
                     var context = services.GetRequiredService<StoreDbContext>();
                     var userManager = services.GetRequiredService<UserManager<AppUser>>();
+                    var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
 
                     await context.Database.MigrateAsync(); // if any appending migration found, it will be updated to database - if database is aleardy created, it will not create a new one.
                     
                     await StoreContextSeed.SeedAsync(context, loggerFactory);
-                    await AppIdentityContextSeed.SeedUserAsync(userManager);
+                    await AppIdentityContextSeed.SeedUserAsync(userManager, roleManager);
                 }
                 catch (Exception ex)
                 {

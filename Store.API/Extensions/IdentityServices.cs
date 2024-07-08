@@ -11,10 +11,16 @@ namespace Store.API.Extensions
     {
         public static IServiceCollection AddIdentityServices(this IServiceCollection services, IConfiguration configuration)
         {
-            var builder = services.AddIdentityCore<AppUser>();
-            builder = new IdentityBuilder(builder.UserType, builder.Services);
-            builder.AddEntityFrameworkStores<StoreIdentityDBContext>();
-            builder.AddSignInManager<SignInManager<AppUser>>();
+            services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+                options.Password.RequireDigit = true;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireNonAlphanumeric = true;
+                options.Password.RequireUppercase = true;
+                options.Password.RequiredLength = 6;
+            })
+            .AddEntityFrameworkStores<StoreIdentityDBContext>()
+            .AddDefaultTokenProviders();
 
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
@@ -26,9 +32,10 @@ namespace Store.API.Extensions
                         ValidateIssuer = true,
                         ValidIssuer = configuration["Token:Issuer"],
                         ValidateAudience = false,
-                        ValidateLifetime = true 
+                        ValidateLifetime = true
                     };
                 });
+
 
             return services;
         }
