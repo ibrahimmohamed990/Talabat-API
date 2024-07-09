@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AdminDashboard.Controllers
 {
+    [Authorize(Policy = "AccessDenied")]
     public class RoleController : Controller
     {
         private readonly RoleManager<IdentityRole> _roleManager;

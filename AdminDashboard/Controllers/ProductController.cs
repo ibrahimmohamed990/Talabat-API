@@ -9,6 +9,7 @@ using Store.Repository.Specification.ProductSpecfications;
 
 namespace AdminDashboard.Controllers
 {
+    [Authorize(Policy = "AccessDenied")]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -5,6 +5,7 @@ using Store.Repository.Interfaces;
 
 namespace AdminDashboard.Controllers
 {
+    [Authorize(Policy = "AccessDenied")]
     public class ProductsTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

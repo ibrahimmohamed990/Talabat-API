@@ -10,6 +10,7 @@ using Store.Data.Entities.Identity_Entities;
 
 namespace AdminDashboard.Controllers
 {
+    [Authorize(Policy = "AccessDenied")]
     public class UserController : Controller
     {
         private readonly UserManager<AppUser> _userManager;
