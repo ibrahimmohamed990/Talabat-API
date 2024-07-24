@@ -10,7 +10,7 @@ using Store.Services.Services.ProductService.Dtos;
 namespace Store.API.Controllers
 {
 
-    [Cache(500)]
+    [Cache(10000)]
     [Authorize]
     public class ProductsController : BaseController
     {

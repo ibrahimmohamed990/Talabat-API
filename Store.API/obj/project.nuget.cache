@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wwjul0LJHQk=",
+  "dgSpecHash": "p99S764sb7Y=",
   "success": true,
-  "projectFilePath": "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj",
+  "projectFilePath": "E:\\Projects\\Store API\\Store.API\\Store.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibram\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ibram\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

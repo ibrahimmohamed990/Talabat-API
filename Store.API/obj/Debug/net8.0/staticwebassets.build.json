@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b3pIiKwdcj3RJGHCWYpcKGIKH6OtrkPDmQRKTP8OE68=",
+  "Hash": "rHypqieCLBFlxzlHbOgi1LlEAsAhi+T3in3ZcdGx6BQ=",
   "Source": "Store.API",
   "BasePath": "_content/Store.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Store.API\\wwwroot",
       "Source": "Store.API",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CheesyVegetableLasagna.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenMarsala.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenMarsala.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenMarsala.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenTeriyakiNoodles.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenTikkaMasala.jpg",
       "AssetKind": "All",
@@ -93,10 +93,29 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\Congee.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
+      "BasePath": "_content/Store.API",
+      "RelativePath": "images/products/ChickenTikkaMasala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.png"
+    },
+    {
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\Congee.png",
+      "SourceId": "Store.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/Congee.png",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Congee.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CreamyGochujangTortellini.png",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CrispyVegetablePakoras.png",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/HaluskiNoodles.png",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/HeartyVegetableLasagna.png",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ItalianChickenMarinade.png",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ItalianWeddingSoup.png",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\Kulfi.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\Kulfi.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/Kulfi.png",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Kulfi.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\PastaSalad.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\PastaSalad.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/PastaSalad.png",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PastaSalad.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\PepperPasta.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\PepperPasta.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/PepperPasta.png",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PepperPasta.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ShrimpEggFooYoung.png",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\TandooriChicken.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\TandooriChicken.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/TandooriChicken.png",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\TandooriChicken.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\VegetarianKorma.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/VegetarianKorma.png",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianKorma.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "SourceId": "Store.API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/VegetarianRefriedBeans.png",
       "AssetKind": "All",
