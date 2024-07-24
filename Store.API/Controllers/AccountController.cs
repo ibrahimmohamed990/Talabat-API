@@ -21,7 +21,7 @@ namespace Store.API.Controllers
             userManager = _userManager;
         }
         [HttpPost]
-        public async Task<ActionResult<UserDto>> Login([FromQuery]LoginDto input)
+        public async Task<ActionResult<UserDto>> Login(LoginDto input)
         {
             var user = await userService.Login(input);
             if (user is null)

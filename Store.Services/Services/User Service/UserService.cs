@@ -25,9 +25,15 @@ namespace Store.Services.Services.User_Service
             var user = await userManager.FindByEmailAsync(input.Email);
             if (user is null)
                 throw new Exception("User Not Found");
-            var result = await signInManager.CheckPasswordSignInAsync(user, input.Password, false);
-            if(!result.Succeeded) 
+            //var result = await signInManager.CheckPasswordSignInAsync(user, input.Password, false);
+            //if(!result.Succeeded) 
+            //    throw new Exception($"Failed to login {input.Email}");
+
+            var _result = await signInManager.PasswordSignInAsync(user, input.Password, true, false);
+
+            if (!_result.Succeeded)
                 throw new Exception($"Failed to login {input.Email}");
+
             return new UserDto
             {
                 Email = user.Email,

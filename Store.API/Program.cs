@@ -38,8 +38,8 @@ namespace Store.API
                     return ConnectionMultiplexer.Connect(configration);
             });
 
-            builder.Services.AddApplicationServices();
             builder.Services.AddIdentityServices(builder.Configuration);
+            builder.Services.AddApplicationServices();
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -58,7 +58,7 @@ namespace Store.API
                 options.AddPolicy("AllowMyMvcApp",
                     builder =>
                     {
-                        builder.WithOrigins("https://localhost:7239/")
+                        builder.WithOrigins("https://localhost:7277/")
                                .AllowAnyHeader()
                                .AllowAnyMethod();
                     });
@@ -83,7 +83,7 @@ namespace Store.API
             //  >> with reExecute use one request to handle the result , so it faster.
 
             app.UseHttpsRedirection();
-
+            app.UseRouting();
             app.UseStaticFiles();
             //app.UseCors("CorsPolicy");
             app.UseCors("AllowMyMvcApp");

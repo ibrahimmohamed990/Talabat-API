@@ -6,7 +6,6 @@ using Store.Data.Context;
 using Store.Data.Entities.Identity_Entities;
 using Store.Repository.Interfaces;
 using Store.Repository.Repositories;
-using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -66,8 +65,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-app.UseStatusCodePagesWithRedirects("/Admin/AccessDenied?statusCode={0}");
 app.UseHttpsRedirection();
+app.UseStatusCodePagesWithRedirects("/Admin/AccessDenied?statusCode={0}");
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -78,7 +77,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Admin}/{action=Login}");
 
 //app.MapControllerRoute(
 //    name: "default",
