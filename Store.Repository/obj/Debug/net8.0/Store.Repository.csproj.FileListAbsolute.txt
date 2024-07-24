@@ -28,3 +28,19 @@ E:\Route\API\API_Demo\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
 E:\Route\API\API_Demo\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
 E:\Route\API\API_Demo\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
 E:\Route\API\API_Demo\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
+E:\Projects\Store API\Store.Repository\bin\Debug\net8.0\Store.Repository.deps.json
+E:\Projects\Store API\Store.Repository\bin\Debug\net8.0\Store.Repository.dll
+E:\Projects\Store API\Store.Repository\bin\Debug\net8.0\Store.Repository.pdb
+E:\Projects\Store API\Store.Repository\bin\Debug\net8.0\Store.Data.dll
+E:\Projects\Store API\Store.Repository\bin\Debug\net8.0\Store.Data.pdb
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.sourcelink.json
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Re.0C98E3FA.Up2Date
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
+E:\Projects\Store API\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll

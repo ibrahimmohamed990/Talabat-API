@@ -22,3 +22,16 @@ E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.dll
 E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\Store.Data.pdb
 E:\Route\API\API_Demo\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
+E:\Projects\Store API\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+E:\Projects\Store API\Store.Data\bin\Debug\net8.0\Store.Data.dll
+E:\Projects\Store API\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.dll
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+E:\Projects\Store API\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll

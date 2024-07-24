@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUvJJhECIBc=",
+  "dgSpecHash": "Y7j6XfFHZ0c=",
   "success": true,
-  "projectFilePath": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj",
+  "projectFilePath": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibram\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ibram\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

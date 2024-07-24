@@ -2927,11 +2927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj",
+      "projectUniqueName": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj",
       "projectName": "Store.Data",
-      "projectPath": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj",
+      "projectPath": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj",
       "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-      "outputPath": "E:\\Route\\API\\API_Demo\\Store.Data\\obj\\",
+      "outputPath": "E:\\Projects\\Store API\\Store.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Route\\API\\API_Demo\\AdminDashboard\\AdminDashboard.csproj": {}
+    "E:\\Projects\\Store API\\AdminDashboard\\AdminDashboard.csproj": {}
   },
   "projects": {
-    "E:\\Route\\API\\API_Demo\\AdminDashboard\\AdminDashboard.csproj": {
+    "E:\\Projects\\Store API\\AdminDashboard\\AdminDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\API\\API_Demo\\AdminDashboard\\AdminDashboard.csproj",
+        "projectUniqueName": "E:\\Projects\\Store API\\AdminDashboard\\AdminDashboard.csproj",
         "projectName": "AdminDashboard",
-        "projectPath": "E:\\Route\\API\\API_Demo\\AdminDashboard\\AdminDashboard.csproj",
+        "projectPath": "E:\\Projects\\Store API\\AdminDashboard\\AdminDashboard.csproj",
         "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\",
+        "outputPath": "E:\\Projects\\Store API\\AdminDashboard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj": {
-                "projectPath": "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj"
+              "E:\\Projects\\Store API\\Store.API\\Store.API.csproj": {
+                "projectPath": "E:\\Projects\\Store API\\Store.API\\Store.API.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj": {
+    "E:\\Projects\\Store API\\Store.API\\Store.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj",
+        "projectUniqueName": "E:\\Projects\\Store API\\Store.API\\Store.API.csproj",
         "projectName": "Store.API",
-        "projectPath": "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj",
+        "projectPath": "E:\\Projects\\Store API\\Store.API\\Store.API.csproj",
         "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\API\\API_Demo\\Store.API\\obj\\",
+        "outputPath": "E:\\Projects\\Store API\\Store.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj": {
-                "projectPath": "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj"
+              "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj": {
+                "projectPath": "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj": {
+    "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj",
+        "projectPath": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\API\\API_Demo\\Store.Data\\obj\\",
+        "outputPath": "E:\\Projects\\Store API\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -225,14 +225,14 @@
         }
       }
     },
-    "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj": {
+    "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj",
+        "projectUniqueName": "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj",
         "projectName": "Store.Repository",
-        "projectPath": "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj",
+        "projectPath": "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj",
         "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\API\\API_Demo\\Store.Repository\\obj\\",
+        "outputPath": "E:\\Projects\\Store API\\Store.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,8 +250,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj": {
-                "projectPath": "E:\\Route\\API\\API_Demo\\Store.Data\\Store.Data.csproj"
+              "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj": {
+                "projectPath": "E:\\Projects\\Store API\\Store.Data\\Store.Data.csproj"
               }
             }
           }
@@ -300,14 +300,14 @@
         }
       }
     },
-    "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj": {
+    "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj",
+        "projectUniqueName": "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj",
         "projectName": "Store.Services",
-        "projectPath": "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj",
+        "projectPath": "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj",
         "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\API\\API_Demo\\Store.Services\\obj\\",
+        "outputPath": "E:\\Projects\\Store API\\Store.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -325,8 +325,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj": {
-                "projectPath": "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj"
+              "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj": {
+                "projectPath": "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj"
               }
             }
           }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "0E4nDbYLwx7mXh78OprUZF37XQNyXSQwLsUxVf2yPio=",
+  "Hash": "Fwlfx5Jb4qyzmkYlN1MAidcrHtzwxuqG2d48gUhLdyM=",
   "Source": "AdminDashboard",
   "BasePath": "_content/AdminDashboard",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\Store.API.csproj",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\Store.API.csproj",
       "Version": 2,
       "Source": "Store.API",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,24 +22,24 @@
     {
       "Name": "AdminDashboard\\wwwroot",
       "Source": "AdminDashboard",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "Pattern": "**"
     },
     {
       "Name": "Store.API\\wwwroot",
       "Source": "Store.API",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminDashboard.styles.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminDashboard.styles.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "AdminDashboard.styles.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminDashboard.styles.css"
+      "OriginalItemSpec": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdminDashboard.styles.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminDashboard.bundle.scp.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminDashboard.bundle.scp.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "AdminDashboard.bundle.scp.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Route\\API\\API_Demo\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminDashboard.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Projects\\Store API\\AdminDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminDashboard.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\css\\LoginStyle.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\css\\LoginStyle.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "css/LoginStyle.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\LoginStyle.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\css\\site.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\css\\styles.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\css\\styles.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\favicon.ico",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\0ad6b9d8-382d-4cc6-914b-e22f51e3c4e4TandooriChicken.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\0ad6b9d8-382d-4cc6-914b-e22f51e3c4e4TandooriChicken.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/0ad6b9d8-382d-4cc6-914b-e22f51e3c4e4TandooriChicken.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\0ad6b9d8-382d-4cc6-914b-e22f51e3c4e4TandooriChicken.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\137e1d6d-fbdc-46e1-8806-3b39c9395e94shopping.webp",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\137e1d6d-fbdc-46e1-8806-3b39c9395e94shopping.webp",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/137e1d6d-fbdc-46e1-8806-3b39c9395e94shopping.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\137e1d6d-fbdc-46e1-8806-3b39c9395e94shopping.webp"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\1d456a54-0699-4839-8bd6-3cf43e69df85Doaa.jpeg",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\1d456a54-0699-4839-8bd6-3cf43e69df85Doaa.jpeg",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/1d456a54-0699-4839-8bd6-3cf43e69df85Doaa.jpeg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1d456a54-0699-4839-8bd6-3cf43e69df85Doaa.jpeg"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\4c6a5770-a40b-44dc-942b-0ad2e3d5ba09HaluskiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\4c6a5770-a40b-44dc-942b-0ad2e3d5ba09HaluskiNoodles.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/4c6a5770-a40b-44dc-942b-0ad2e3d5ba09HaluskiNoodles.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\4c6a5770-a40b-44dc-942b-0ad2e3d5ba09HaluskiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\608ef480-8e7e-457c-b0cb-83323ecf2058ChickenTeriyakiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\608ef480-8e7e-457c-b0cb-83323ecf2058ChickenTeriyakiNoodles.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/608ef480-8e7e-457c-b0cb-83323ecf2058ChickenTeriyakiNoodles.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\608ef480-8e7e-457c-b0cb-83323ecf2058ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\93d8966d-7778-4ada-a322-ad3408f4c5f5User.jpg",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\93d8966d-7778-4ada-a322-ad3408f4c5f5User.jpg",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/93d8966d-7778-4ada-a322-ad3408f4c5f5User.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\93d8966d-7778-4ada-a322-ad3408f4c5f5User.jpg"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\a39c7566-0970-4509-aee5-c6a7bebf8b4cVegetarianRefriedBeans.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\a39c7566-0970-4509-aee5-c6a7bebf8b4cVegetarianRefriedBeans.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/a39c7566-0970-4509-aee5-c6a7bebf8b4cVegetarianRefriedBeans.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\a39c7566-0970-4509-aee5-c6a7bebf8b4cVegetarianRefriedBeans.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\b5d1caa0-cdba-403d-bea3-6c8fe66867bbChickenMarsala.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\b5d1caa0-cdba-403d-bea3-6c8fe66867bbChickenMarsala.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/b5d1caa0-cdba-403d-bea3-6c8fe66867bbChickenMarsala.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\b5d1caa0-cdba-403d-bea3-6c8fe66867bbChickenMarsala.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\cfeedd6a-01ba-4140-b2d3-bb2c4fff32e6HaluskiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\cfeedd6a-01ba-4140-b2d3-bb2c4fff32e6HaluskiNoodles.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/cfeedd6a-01ba-4140-b2d3-bb2c4fff32e6HaluskiNoodles.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\cfeedd6a-01ba-4140-b2d3-bb2c4fff32e6HaluskiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/CheesyVegetableLasagna.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ChickenMarsala.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ChickenMarsala.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenMarsala.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ChickenTeriyakiNoodles.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ChickenTikkaMasala.jpg",
       "AssetKind": "All",
@@ -492,10 +492,29 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\Congee.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ChickenTikkaMasala.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
+      "BasePath": "_content/AdminDashboard",
+      "RelativePath": "images/products/ChickenTikkaMasala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.png"
+    },
+    {
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\Congee.png",
+      "SourceId": "AdminDashboard",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/Congee.png",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Congee.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/CreamyGochujangTortellini.png",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/CrispyVegetablePakoras.png",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
@@ -606,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
@@ -625,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/HaluskiNoodles.png",
       "AssetKind": "All",
@@ -644,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
@@ -663,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
@@ -682,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
@@ -701,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/HeartyVegetableLasagna.png",
       "AssetKind": "All",
@@ -720,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ItalianChickenMarinade.png",
       "AssetKind": "All",
@@ -739,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ItalianWeddingSoup.png",
       "AssetKind": "All",
@@ -758,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\Kulfi.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\Kulfi.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/Kulfi.png",
       "AssetKind": "All",
@@ -777,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Kulfi.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\PastaSalad.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\PastaSalad.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/PastaSalad.png",
       "AssetKind": "All",
@@ -796,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PastaSalad.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\PepperPasta.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\PepperPasta.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/PepperPasta.png",
       "AssetKind": "All",
@@ -815,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PepperPasta.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -834,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -853,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
@@ -872,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
@@ -891,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
@@ -910,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/sb-ts1.png",
       "AssetKind": "All",
@@ -929,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/ShrimpEggFooYoung.png",
       "AssetKind": "All",
@@ -948,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\TandooriChicken.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\TandooriChicken.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/TandooriChicken.png",
       "AssetKind": "All",
@@ -967,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\TandooriChicken.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\VegetarianKorma.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/VegetarianKorma.png",
       "AssetKind": "All",
@@ -986,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianKorma.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "images/products/VegetarianRefriedBeans.png",
       "AssetKind": "All",
@@ -1005,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianRefriedBeans.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -1024,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\js\\scripts.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\js\\scripts.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -1043,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\js\\site.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1062,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1081,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1100,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1119,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1157,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1176,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1195,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1328,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1347,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1385,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1404,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1423,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1461,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1480,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1499,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1537,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1556,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1575,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1613,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1651,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1689,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1708,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1727,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1746,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1765,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1784,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1803,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1822,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1841,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1860,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1879,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1898,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1917,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1936,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1955,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1974,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1993,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2012,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2031,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2050,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2069,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2088,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2107,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2126,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AdminDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\AdminDashboard\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\AdminDashboard\\wwwroot\\",
       "BasePath": "_content/AdminDashboard",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2145,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CheesyVegetableLasagna.png",
       "AssetKind": "All",
@@ -2164,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CheesyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenMarsala.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenMarsala.png",
       "AssetKind": "All",
@@ -2183,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenMarsala.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenTeriyakiNoodles.png",
       "AssetKind": "All",
@@ -2202,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTeriyakiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ChickenTikkaMasala.jpg",
       "AssetKind": "All",
@@ -2221,10 +2240,29 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.jpg"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\Congee.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ChickenTikkaMasala.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
+      "BasePath": "_content/Store.API",
+      "RelativePath": "images/products/ChickenTikkaMasala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ChickenTikkaMasala.png"
+    },
+    {
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\Congee.png",
+      "SourceId": "Store.API",
+      "SourceType": "Project",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/Congee.png",
       "AssetKind": "All",
@@ -2240,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Congee.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CreamyGochujangTortellini.png",
       "AssetKind": "All",
@@ -2259,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CreamyGochujangTortellini.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/CrispyVegetablePakoras.png",
       "AssetKind": "All",
@@ -2278,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\CrispyVegetablePakoras.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\HaluskiNoodles.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/HaluskiNoodles.png",
       "AssetKind": "All",
@@ -2297,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HaluskiNoodles.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/HeartyVegetableLasagna.png",
       "AssetKind": "All",
@@ -2316,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\HeartyVegetableLasagna.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ItalianChickenMarinade.png",
       "AssetKind": "All",
@@ -2335,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianChickenMarinade.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ItalianWeddingSoup.png",
       "AssetKind": "All",
@@ -2354,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ItalianWeddingSoup.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\Kulfi.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\Kulfi.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/Kulfi.png",
       "AssetKind": "All",
@@ -2373,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Kulfi.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\PastaSalad.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\PastaSalad.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/PastaSalad.png",
       "AssetKind": "All",
@@ -2392,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PastaSalad.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\PepperPasta.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\PepperPasta.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/PepperPasta.png",
       "AssetKind": "All",
@@ -2411,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\PepperPasta.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/ShrimpEggFooYoung.png",
       "AssetKind": "All",
@@ -2430,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\ShrimpEggFooYoung.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\TandooriChicken.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\TandooriChicken.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/TandooriChicken.png",
       "AssetKind": "All",
@@ -2449,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\TandooriChicken.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\VegetarianKorma.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/VegetarianKorma.png",
       "AssetKind": "All",
@@ -2468,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\VegetarianKorma.png"
     },
     {
-      "Identity": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "Identity": "E:\\Projects\\Store API\\Store.API\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
       "SourceId": "Store.API",
       "SourceType": "Project",
-      "ContentRoot": "E:\\Route\\API\\API_Demo\\Store.API\\wwwroot\\",
+      "ContentRoot": "E:\\Projects\\Store API\\Store.API\\wwwroot\\",
       "BasePath": "_content/Store.API",
       "RelativePath": "images/products/VegetarianRefriedBeans.png",
       "AssetKind": "All",

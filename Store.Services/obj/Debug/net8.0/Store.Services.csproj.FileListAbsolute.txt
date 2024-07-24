@@ -32,3 +32,21 @@ E:\Route\API\API_Demo\Store.Services\obj\Debug\net8.0\Store.Services.dll
 E:\Route\API\API_Demo\Store.Services\obj\Debug\net8.0\refint\Store.Services.dll
 E:\Route\API\API_Demo\Store.Services\obj\Debug\net8.0\Store.Services.pdb
 E:\Route\API\API_Demo\Store.Services\obj\Debug\net8.0\ref\Store.Services.dll
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Services.deps.json
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Services.dll
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Services.pdb
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Data.dll
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Repository.dll
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Repository.pdb
+E:\Projects\Store API\Store.Services\bin\Debug\net8.0\Store.Data.pdb
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.csproj.AssemblyReference.cache
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.AssemblyInfoInputs.cache
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.AssemblyInfo.cs
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.csproj.CoreCompileInputs.cache
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.sourcelink.json
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Se.9385C541.Up2Date
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.dll
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\refint\Store.Services.dll
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\Store.Services.pdb
+E:\Projects\Store API\Store.Services\obj\Debug\net8.0\ref\Store.Services.dll

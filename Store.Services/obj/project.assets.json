@@ -3663,11 +3663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj",
+      "projectUniqueName": "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj",
       "projectName": "Store.Services",
-      "projectPath": "E:\\Route\\API\\API_Demo\\Store.Services\\Store.Services.csproj",
+      "projectPath": "E:\\Projects\\Store API\\Store.Services\\Store.Services.csproj",
       "packagesPath": "C:\\Users\\ibram\\.nuget\\packages\\",
-      "outputPath": "E:\\Route\\API\\API_Demo\\Store.Services\\obj\\",
+      "outputPath": "E:\\Projects\\Store API\\Store.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3685,8 +3685,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj": {
-              "projectPath": "E:\\Route\\API\\API_Demo\\Store.Repository\\Store.Repository.csproj"
+            "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj": {
+              "projectPath": "E:\\Projects\\Store API\\Store.Repository\\Store.Repository.csproj"
             }
           }
         }
